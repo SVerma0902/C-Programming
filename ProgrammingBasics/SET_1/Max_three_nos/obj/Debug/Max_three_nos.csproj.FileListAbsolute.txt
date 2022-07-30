@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\bin\Debug\Max_three_nos.exe.config
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\bin\Debug\Max_three_nos.exe
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\bin\Debug\Max_three_nos.pdb
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\obj\Debug\Max_three_nos.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\obj\Debug\Max_three_nos.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\obj\Debug\Max_three_nos.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\obj\Debug\Max_three_nos.exe
+G:\Sristi Prep\ProgrammingBasics\Max_three_nos\obj\Debug\Max_three_nos.pdb

@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\bin\Debug\check_if_divisible.exe.config
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\bin\Debug\check_if_divisible.exe
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\bin\Debug\check_if_divisible.pdb
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\obj\Debug\check_if_divisible.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\obj\Debug\check_if_divisible.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\obj\Debug\check_if_divisible.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\obj\Debug\check_if_divisible.exe
+G:\Sristi Prep\ProgrammingBasics\check_if_divisible\obj\Debug\check_if_divisible.pdb

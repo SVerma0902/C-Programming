@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\bin\Debug\SidesOfTriangle.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\bin\Debug\SidesOfTriangle.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\bin\Debug\SidesOfTriangle.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\obj\Debug\SidesOfTriangle.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\obj\Debug\SidesOfTriangle.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\obj\Debug\SidesOfTriangle.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\obj\Debug\SidesOfTriangle.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\SidesOfTriangle\obj\Debug\SidesOfTriangle.pdb

@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\bin\Debug\BasicSalary.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\bin\Debug\BasicSalary.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\bin\Debug\BasicSalary.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\obj\Debug\BasicSalary.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\obj\Debug\BasicSalary.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\obj\Debug\BasicSalary.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\obj\Debug\BasicSalary.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\BasicSalary\obj\Debug\BasicSalary.pdb

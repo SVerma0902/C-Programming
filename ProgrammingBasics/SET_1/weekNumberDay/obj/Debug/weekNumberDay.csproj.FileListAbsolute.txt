@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\bin\Debug\weekNumberDay.exe.config
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\bin\Debug\weekNumberDay.exe
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\bin\Debug\weekNumberDay.pdb
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\obj\Debug\weekNumberDay.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\obj\Debug\weekNumberDay.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\obj\Debug\weekNumberDay.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\obj\Debug\weekNumberDay.exe
+G:\Sristi Prep\ProgrammingBasics\weekNumberDay\obj\Debug\weekNumberDay.pdb

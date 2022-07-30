@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\bin\Debug\vowelORnot.exe.config
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\bin\Debug\vowelORnot.exe
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\bin\Debug\vowelORnot.pdb
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\obj\Debug\vowelORnot.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\obj\Debug\vowelORnot.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\obj\Debug\vowelORnot.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\obj\Debug\vowelORnot.exe
+G:\Sristi Prep\ProgrammingBasics\vowelORnot\obj\Debug\vowelORnot.pdb

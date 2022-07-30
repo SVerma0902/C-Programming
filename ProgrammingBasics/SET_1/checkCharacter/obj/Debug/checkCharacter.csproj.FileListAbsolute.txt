@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\obj\Debug\checkCharacter.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\obj\Debug\checkCharacter.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\obj\Debug\checkCharacter.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\bin\Debug\checkCharacter.exe.config
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\bin\Debug\checkCharacter.exe
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\bin\Debug\checkCharacter.pdb
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\obj\Debug\checkCharacter.exe
+G:\Sristi Prep\ProgrammingBasics\checkCharacter\obj\Debug\checkCharacter.pdb

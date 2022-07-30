@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\bin\Debug\electricUnit.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\bin\Debug\electricUnit.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\bin\Debug\electricUnit.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\obj\Debug\electricUnit.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\obj\Debug\electricUnit.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\obj\Debug\electricUnit.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\obj\Debug\electricUnit.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\electricUnit\obj\Debug\electricUnit.pdb

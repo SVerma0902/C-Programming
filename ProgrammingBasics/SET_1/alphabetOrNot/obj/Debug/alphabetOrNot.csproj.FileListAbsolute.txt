@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\bin\Debug\alphabetOrNot.exe.config
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\bin\Debug\alphabetOrNot.exe
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\bin\Debug\alphabetOrNot.pdb
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\obj\Debug\alphabetOrNot.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\obj\Debug\alphabetOrNot.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\obj\Debug\alphabetOrNot.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\obj\Debug\alphabetOrNot.exe
+G:\Sristi Prep\ProgrammingBasics\alphabetOrNot\obj\Debug\alphabetOrNot.pdb

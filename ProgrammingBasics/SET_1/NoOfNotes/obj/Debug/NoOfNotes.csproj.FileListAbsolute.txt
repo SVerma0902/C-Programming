@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\bin\Debug\NoOfNotes.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\bin\Debug\NoOfNotes.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\bin\Debug\NoOfNotes.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\obj\Debug\NoOfNotes.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\obj\Debug\NoOfNotes.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\obj\Debug\NoOfNotes.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\obj\Debug\NoOfNotes.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\NoOfNotes\obj\Debug\NoOfNotes.pdb

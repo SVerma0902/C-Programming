@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\checkCase\bin\Debug\checkCase.exe.config
+G:\Sristi Prep\ProgrammingBasics\checkCase\bin\Debug\checkCase.exe
+G:\Sristi Prep\ProgrammingBasics\checkCase\bin\Debug\checkCase.pdb
+G:\Sristi Prep\ProgrammingBasics\checkCase\obj\Debug\checkCase.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\checkCase\obj\Debug\checkCase.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\checkCase\obj\Debug\checkCase.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\checkCase\obj\Debug\checkCase.exe
+G:\Sristi Prep\ProgrammingBasics\checkCase\obj\Debug\checkCase.pdb

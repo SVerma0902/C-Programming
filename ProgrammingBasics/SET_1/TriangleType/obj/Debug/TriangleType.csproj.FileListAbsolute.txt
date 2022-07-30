@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\bin\Debug\TriangleType.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\bin\Debug\TriangleType.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\bin\Debug\TriangleType.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\obj\Debug\TriangleType.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\obj\Debug\TriangleType.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\obj\Debug\TriangleType.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\obj\Debug\TriangleType.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\TriangleType\obj\Debug\TriangleType.pdb

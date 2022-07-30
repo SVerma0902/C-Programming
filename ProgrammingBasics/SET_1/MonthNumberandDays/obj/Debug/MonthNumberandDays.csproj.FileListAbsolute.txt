@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\bin\Debug\MonthNumberandDays.exe.config
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\bin\Debug\MonthNumberandDays.exe
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\bin\Debug\MonthNumberandDays.pdb
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\obj\Debug\MonthNumberandDays.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\obj\Debug\MonthNumberandDays.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\obj\Debug\MonthNumberandDays.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\obj\Debug\MonthNumberandDays.exe
+G:\Sristi Prep\ProgrammingBasics\MonthNumberandDays\obj\Debug\MonthNumberandDays.pdb

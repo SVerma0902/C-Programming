@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\bin\Debug\PercentageGrade.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\bin\Debug\PercentageGrade.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\bin\Debug\PercentageGrade.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\obj\Debug\PercentageGrade.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\obj\Debug\PercentageGrade.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\obj\Debug\PercentageGrade.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\obj\Debug\PercentageGrade.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\PercentageGrade\obj\Debug\PercentageGrade.pdb

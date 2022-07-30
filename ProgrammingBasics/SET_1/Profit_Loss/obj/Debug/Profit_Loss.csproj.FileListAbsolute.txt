@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\bin\Debug\Profit_Loss.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\bin\Debug\Profit_Loss.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\bin\Debug\Profit_Loss.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\obj\Debug\Profit_Loss.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\obj\Debug\Profit_Loss.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\obj\Debug\Profit_Loss.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\obj\Debug\Profit_Loss.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\Profit_Loss\obj\Debug\Profit_Loss.pdb

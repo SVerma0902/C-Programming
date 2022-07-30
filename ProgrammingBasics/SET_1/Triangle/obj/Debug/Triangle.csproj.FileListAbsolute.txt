@@ -1,0 +1,8 @@
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\bin\Debug\Triangle.exe.config
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\bin\Debug\Triangle.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\bin\Debug\Triangle.pdb
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\obj\Debug\Triangle.exe
+G:\Sristi Prep\ProgrammingBasics\SET1\Triangle\obj\Debug\Triangle.pdb
